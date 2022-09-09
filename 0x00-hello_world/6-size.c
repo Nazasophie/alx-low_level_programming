@@ -1,9 +1,7 @@
 #include <stdio.h>
 /**
- * main - Entry point for program.
+ * main - Entry point for the program.
  *
- * Description: using the main function
- * this program prints "Programming is like building a multilingual puzzle
  * Return: zero if no error, Non-zero value if errors.
  */
 int main(void)
