@@ -1,8 +1,10 @@
 #include <stdio.h>
+#include <stdlib .h>
+#include <time.h>
 /**
- * main - Ommit some alphabet
+ * main - Entry point
  *
- * Return: Always (success)
+ * Return: Always 0 (success)
  */
 int main(void)
 {
